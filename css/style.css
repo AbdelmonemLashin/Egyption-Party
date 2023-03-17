@@ -5,7 +5,7 @@
   /* transition: all .5s; */
 }
 .sectionHome {
-  background-image: url(/img/Egyption-Party.jpg);
+  background-image: url(../img/Egyption-Party.jpg);
   background-size: cover;
   width: 100%;
   height: 100vh;
